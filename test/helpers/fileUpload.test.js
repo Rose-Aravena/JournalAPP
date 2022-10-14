@@ -17,7 +17,7 @@ describe('Tests on fileUpload', () => {
 
         const url = await fileUpload(file);
         expect(typeof url).toBe('string');
-        console.log(url)
+        
         const segments = url.split('/');
         const imageId = segments[segments.length -1].replace('.jpg', '');
 
