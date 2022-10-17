@@ -8,7 +8,7 @@ En la aplicacion podras escribir notas, ademas podras subir imagenes con tu nota
 
 En el siguiente enlace podras ver la aplicacion funcionando, tendras la opcion de crear tu propio usuario o entrar con un usuario demo.
 
-[Prueba la App aqui!](https://zingy-frangollo-90fc07.netlify.app)
+[Prueba la App aqui!](https://journalreact.netlify.app)
 
 
 Usuario Demo: 
